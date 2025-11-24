@@ -1,3 +1,5 @@
+# book-store-api
+
 # Book Store API
 
 A simple Node.js + Express + Mongoose REST API for managing books.
@@ -31,7 +33,7 @@ Body example (JSON):
 {
   "title": "Book Title",
   "author": "Author Name",
-  "price": 399
+  "year": 2020
 }
 ```
 
@@ -46,7 +48,8 @@ Body example (JSON):
 ```json
 {
   "title": "Updated Title",
-  "price": 499
+  "author": "Updated Author",
+  "year": 2021
 }
 ```
 
