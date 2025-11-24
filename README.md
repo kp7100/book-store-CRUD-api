@@ -1,5 +1,3 @@
-# book-store-api
-
 # Book Store API
 
 A simple Node.js + Express + Mongoose REST API for managing books.
